@@ -1,5 +1,3 @@
-<img src="https://github.com/rohitaragde/rohitaragde/blob/main/assets/banner.png" alt="Rohit Ragde Banner" width="100%" />
-
 # 👋 Hi there, I'm Rohit Annasaheb Ragde!
 
 Welcome to my GitHub! 🚀  
