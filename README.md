@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Rohit Annasaheb Ragde!
 
 Welcome to my GitHub! 🚀  
+
 I'm a Data Engineer with 5+ years of hands-on experience optimizing enterprise-scale data systems, building robust ETL pipelines, and improving performance for Fortune 500 clients like Exelon Inc. and Teradata
 
 ## 🚀 Career Highlights
