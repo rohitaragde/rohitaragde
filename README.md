@@ -78,7 +78,9 @@ I'm a **Data Engineer** with 5+ years of experience architecting scalable data s
 
 📍 [LinkedIn](https://www.linkedin.com/in/rohitaragde/)  
 📬 Reach out for collaboration, freelance projects, or just to talk data!  
-📄 [Download My Resume](https://github.com/rohitaragde/resume/blob/main/Rohit_Ragde_Resume.pdf)
+
+📄 [View My Resume](https://drive.google.com/file/d/1nKHzz053kzHozU0-TeIvjhIOUIrFh9AZ/view?usp=sharing)
+
 
 ---
 
