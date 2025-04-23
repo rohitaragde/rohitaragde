@@ -1,7 +1,14 @@
 # 👋 Hi there, I'm Rohit Annasaheb Ragde!
 
 Welcome to my GitHub! 🚀  
-I'm a passionate **Data Engineer** with a strong foundation in building scalable pipelines, automating ETL processes, and solving real-world data problems.
+I'm a Data Engineer with 5+ years of hands-on experience optimizing enterprise-scale data systems, building robust ETL pipelines, and improving performance for Fortune 500 clients like Exelon Inc. and Teradata
+
+## 🚀 Career Highlights
+
+- ⏱️ Boosted system uptime by 80% through SQL Server performance tuning and wait stats analysis at Cantonica.
+- ⚙️ Migrated 10+ TB of data from SQL Server to Azure Data Lake with zero downtime at Exelon Inc.
+- 📊 Managed 50TB+ enterprise-scale data warehouses using SQL Server Always On and Teradata at Teradata India Pvt Ltd.
+- 💡 Saved $120K annually by optimizing production queries and automating resource-heavy processes
 
 ---
 
@@ -60,6 +67,13 @@ I'm a passionate **Data Engineer** with a strong foundation in building scalable
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohitaragde&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitaragde&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📜 Certifications
+
+[![Teradata Admin](https://img.shields.io/badge/Teradata-Certified%20Administrator-F37440)](https://www.credly.com/badges/a669ea34-cc59-4553-9138-1a77e2a5b3dc)  
+[![Oracle SQL](https://img.shields.io/badge/Oracle-SQL%20Associate-F80000)](https://www.credly.com/badges/47cd0e7c-adbe-49dc-b57e-b0a4006eb34c)
+
+📄 [Download My Resume](https://github.com/rohitaragde/resume/blob/main/Rohit_Ragde_Resume.pdf)
 
 
 ## 📫 Let's Connect!
