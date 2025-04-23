@@ -1,3 +1,5 @@
+<img src="https://github.com/rohitaragde/rohitaragde/blob/main/assets/banner.png" alt="Rohit Ragde Banner" width="100%" />
+
 # 👋 Hi there, I'm Rohit Annasaheb Ragde!
 
 Welcome to my GitHub! 🚀  
@@ -81,9 +83,9 @@ I'm a **Data Engineer** with 5+ years of experience architecting scalable data s
 
 📍 [LinkedIn](https://www.linkedin.com/in/rohitaragde/)  
 ✍️ [Medium](https://medium.com/@ragderohit2024) – Upcoming articles on data engineering, architecture patterns, and real-world use cases.  
-📬 Reach out for collaboration, freelance projects, or just to talk data!  
-
 📄 [View My Resume](https://drive.google.com/file/d/1nKHzz053kzHozU0-TeIvjhIOUIrFh9AZ/view?usp=sharing)
+
+📬 Reach out for collaboration, freelance projects, or just to talk data!  
 
 
 
