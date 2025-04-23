@@ -74,6 +74,9 @@ I'm a **Data Engineer** with 5+ years of experience architecting scalable data s
 
 ---
 
+![Rohit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitaragde&theme=github-dark)
+
+
 ## 📫 Let's Connect!
 
 📍 [LinkedIn](https://www.linkedin.com/in/rohitaragde/)  
