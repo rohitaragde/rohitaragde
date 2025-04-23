@@ -35,6 +35,13 @@ I'm a passionate **Data Engineer** with a strong foundation in building scalable
 
 ---
 
+## 🚀 GitHub Stats :
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitaragde&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohitaragde&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitaragde&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 📫 Let's Connect!
 
 📍 [LinkedIn](https://www.linkedin.com/in/rohitaragde/)  
