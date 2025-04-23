@@ -29,9 +29,7 @@ I'm a passionate **Data Engineer** with a strong foundation in building scalable
 ## 📌 Featured Repos
 
 ✨ [Data Engineering HUB](https://github.com/rohitaragde/Data-Engineering-HUB) – Practice DSA, SQL, Python, PySpark, System Design daily  
-✨ [SQL Server Toolkit](https://github.com/rohitaragde/SQL-Server-Toolkit) – Your all-in-one place for mastering SQL Server  
-✨ [Azure Olympic Data Pipeline](https://github.com/rohitaragde/Azure-Olympic-Data-Engineering-Pipeline) – Full-stack cloud data engineering project  
-✨ [FitTrack](https://github.com/rohitaragde/FitTrack) – Personal fitness tracking powered by data analytics
+✨ [SQL Server Toolkit](https://github.com/rohitaragde/SQL-Server-Toolkit) – Your all-in-one place for mastering SQL Server
 
 ---
 
