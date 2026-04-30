@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohit Ragde
+# 👋 Hi, I'm Rohit Annasaheb Ragde
 
 SQL-focused Data Engineer with experience building and optimizing data pipelines and data warehouse systems across financial and enterprise environments.
 
